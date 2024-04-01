@@ -1,4 +1,4 @@
-package exchange;
+package restProtocol;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import io.restassured.response.Response;
